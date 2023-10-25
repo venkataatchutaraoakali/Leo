@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi Good morning
+=======
+Hi
+>>>>>>> origin/master
